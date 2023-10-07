@@ -1,0 +1,8 @@
+error.log
+*.log
+#  it will ignore all folder even if the folder is inside of another folder
+test-folder/ 
+# it will ignore only the folder which is in the same directory where .gitignore is
+test-folder/ 
+
+test.txt
